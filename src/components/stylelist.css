@@ -1,0 +1,11 @@
+.divforlist{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 8px;
+flex-wrap: wrap;
+}
+.logorate{
+ width: 50px;
+    
+}
